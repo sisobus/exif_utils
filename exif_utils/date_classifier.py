@@ -10,7 +10,7 @@ from __future__ import print_function
 
 import os
 import piexif
-import utils
+from . import utils
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 

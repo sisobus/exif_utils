@@ -1,4 +1,5 @@
 venv/*
+*.egg-info/*
 *.swp
 *.swa
 *.pyc
@@ -20,4 +21,5 @@ data/*
 exif_utils/tmp/*
 exif_utils/out/*
 exif_utils/__pycache__/*
-
+build/*
+dist/*

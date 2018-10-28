@@ -3,7 +3,7 @@ from __future__ import division
 from __future__ import print_function
 
 from exif_utils import __version__
-from date_classifier import classify
+from .date_classifier import classify
 import sys
 
 
